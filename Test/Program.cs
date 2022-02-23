@@ -44,7 +44,7 @@ namespace Test
              Console.WriteLine("x={0},y={1}",mC.x,mC.y);
              Console.WriteLine("c1={0},c2={1}",SampleClass.c1,SampleClass.c2);
             */
-            #endregion
+
             /*
             Console.WriteLine("int 的大小是{0}",sizeof(int));
             Console.WriteLine("short 的大小是{0}",sizeof(short));
@@ -58,7 +58,7 @@ namespace Test
             b = (a == 10) ? 20 : 30;
             Console.WriteLine("b的值是{0}", b);
             */
-
+            #endregion
         }
     }
 }
